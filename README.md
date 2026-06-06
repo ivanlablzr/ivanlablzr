@@ -10,4 +10,4 @@ Quality over noise — I publish projects once they're solid.
 
 ### 📚 Learning in public
 My open study notes on cloud, security & AI — how I'm researching and organizing the field as I learn.
-👉 [Knowledge base](your-link)   *(personal notes organized based on how I see and understand the digital world)*
+👉 [Knowledge base](https://github.com/ivanlablzr/tech-learning-notes)   *(personal notes organized based on how I see and understand the digital world)*
