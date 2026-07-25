@@ -1,6 +1,6 @@
 # Hi, I'm Lazar 👋
 
-**Learning to build AI & cloud systems — and secure them.**
+**Building a deep understanding of the technologies behind our digital world.**
 
 Alongside my bachelor's degree, I'm following a self-made roadmap to dive into different technological domains such as AI, cloud, defensive and offensive security, Software Engineering, networking, etc (see my knowledge base).
 
